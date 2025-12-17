@@ -2,3 +2,4 @@
 Team Admin
 
 Git init 
+git add
